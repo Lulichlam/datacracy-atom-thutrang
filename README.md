@@ -5,4 +5,4 @@ Repository hay repo là một thư viện nơi chứa các files của dự án.
 
 Fork repo (DATAcracy) có nghĩa là bạn tạo một dự án mới dựa trên dự án cũ. Tức là, sao chép hoàn toàn một repository đã tồn tạo, tạo ra các thay đổi cần thiết, và lưu phiên bản mới này dưới dạng một repository độc lập hoàn toàn mới và gọi nó là dự án của riêng bạn.
 
-Branch là một bản sao của repository. Bạn có thể sử dụng Branch để triển khai dự án theo hướng cô lập không ảnh hưởng đến dự án chính. Làm việc với branch vì vậy sẽ không ảnh hưởng tới repostiroy chính hoặc những branches khác. Khi link Colab với Github, chọn Branch để xác định sẽ thay đổi repo ở nhánh nào, Commit mesage dùng để note lại lý do/ tóm lược về lịch sử của lần thay đổi repo này, cụ thể là file được up lên repo (sẽ được hiển thị khi xem repo)
+Khi link Colab với Github, chọn Branch để xác định sẽ thay đổi repo ở nhánh nào, Commit mesage dùng để note lại lý do/ tóm lược về lịch sử của lần thay đổi repo này, cụ thể là file được up lên repo (sẽ được hiển thị khi xem repo)
